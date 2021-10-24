@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abubakaar
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning SpringBoot 
+- 👀 I’m a Java Developer
+- 🧡 Java, Spring boot, Microservices, Redis, Rabbit MQ
+- 🤓 I’m always learning something new.
 - 📫 Reach me via sidi364@gmail.com
 
 <!---
